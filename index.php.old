@@ -1,0 +1,68 @@
+<?php
+    include "header.php";
+?>
+<br>
+<div class="jumbotron">
+    <div class="container">
+        <br>
+        <h1>UNIFOLIUM</h1>
+        <h4>At the center of our passion for innovative design is the desire to make technology usable for more people and integrating it with more aspects of our daily lives.</h2>
+        <a href="./aboutus.php" class="btn btn-default">About Us</a>
+    </div>
+</div>
+
+<div class="jumbotron" id="optical">
+    <div class="container">
+        <h1>OpticalAssurance</h1>
+        <h4> An On-the-Fly Optical Detection System for Multi-Tip High-Throughput Reagent Dispensing</h2>
+        <a href="./opticalassurance.php" class="btn btn-default">Learn More</a>
+    </div>
+</div>
+
+<div class="jumbotron" id="delta">
+    <div class="container">
+        <br>
+        <h1>Delta</h1>
+        <h4>A 3D Navigation Interface for Everyone</h2>
+        <a href="./delta.php" class="btn btn-default">Learn More</a>
+    </div>
+</div>
+
+
+<div class="jumbotron" id="perfectslide">
+    <div class="container">
+        <h1>PerfectSlide</h1>
+        <h4>Maintaining accuracy in chemical and biological experimentation.</h2>
+        <a href="./perfectslide.php" class="btn btn-default">Learn More</a>
+    </div>
+</div>
+
+<div class="jumbotron" id="neckmotion">
+    <div class="container">
+        <h1>NeckMotion</h1>
+        <h4>The next step to an immersive cinematic experience</h2>
+        <a href="./neckmotion.php" class="btn btn-default">Learn More</a>
+    </div>
+</div>
+
+<div class="container">
+    <footer>
+        <div class="row">
+            <div class="col-lg-12">
+                <ul class="list-unstyled">
+                    <li class="pull-right"><a href="#top">Back to top</a></li>
+                    <li><a href="http://facebook.com/unifolium">Facebook</a></li>
+                    <li><a href="https://twitter.com/unifolium">Twitter</a></li>
+                    <li><a href="https://github.com/unifolium">GitHub</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+</div>
+
+
+<script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/bootswatch.js"></script>
+</body>
+</html>
